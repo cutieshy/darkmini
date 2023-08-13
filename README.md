@@ -1,6 +1,6 @@
 ## cutieshy/darkmini
 ### A minimalist dark theme for rEFInd
-I recomend creating a `/boot/EFI/refind/theme` folder and then moving the contents of this repo excluding the `README.md`. 
+I recommend creating a `/boot/EFI/refind/theme` folder and then moving the contents of this repo excluding the `README.md`. 
 After that it's as simple as adding ```include theme/theme.conf``` anywhere inside your refind.conf.
 ```
 sudo su
